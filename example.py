@@ -4,8 +4,8 @@
 from dnspod.apicn import *
 
 def main():
-    email = "1289068792@qq.com"
-    password = "liujianhua"
+    email = ""
+    password = ""
     
     import random
     domain = "test%d.com" % random.randint(1000, 100000)
